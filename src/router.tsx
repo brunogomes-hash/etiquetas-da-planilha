@@ -12,6 +12,8 @@ export const getRouter = () => {
     scrollRestoration: true,
     // Lets Query own freshness; set caching defaults on the QueryClient, not the router.
     defaultPreloadStaleTime: 0,
+    // Necessário para o GitHub Pages (o site fica em /nome-do-repositorio/)
+    basepath: import.meta.env.BASE_URL,
   });
 
   return router;
