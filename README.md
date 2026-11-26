@@ -1,14 +1,17 @@
-# Welcome to your Lovable project
+# Etiquetas da Planilha
+
+Preciso de ajuda com um site para imprimir etiqueta, seguindo mesmo padrão desse cód que mandei, teria como, pega da planilha (https://docs.google.com/spreadsheets/d/1cwkxPOYWr5aYKeZy53mAcI7qnbn9PcU6BjfnKWasEOQ/edit?usp=sharing)
+aba (Base)
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a2c6214b-8e32-44ef-99e1-5809aaa1f9ef).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +23,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
